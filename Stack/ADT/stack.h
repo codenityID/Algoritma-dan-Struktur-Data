@@ -14,7 +14,7 @@
 * Control Element Type 
 * Diguanakan untuk mengubah tipe data Stack
 */
-typedef int infotype; 
+typedef char infotype; 
 /* indeks tabel */ 
 typedef int address;   
 
